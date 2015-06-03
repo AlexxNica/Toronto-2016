@@ -46,6 +46,20 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 - Swag / Swag Bags
 - Premium Break Snacks (~x2)
 
+### Potential Sponsors
+- Mozilla
+- Github
+- Bocoup
+- NPM
+- Red Hat
+- SitePoint
+- Atlassian
+- Telerik
+- &yet
+- Shopify
+- Google
+- SauceLabs
+
 ### Daily Schedule Breakdown
 
 Time | Event
