@@ -17,7 +17,8 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 - 14 x 30 minute presentations
 - 4 x 45 minute "keynote" presentations
 - Talks on: web design, development, standards & community
-- Table & Chairs Setting
+- Mixed seating arrangements (will depend on venue)
+  - No laptop/device zone (closer to the stage)
 
 ### Volunteers
 - 4 MC volunteers
