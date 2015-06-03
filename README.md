@@ -1,5 +1,3 @@
-![Web Conf Banner](https://s3.amazonaws.com/f.cl.ly/items/2V3C0V0v2I0z130j2Q1B/banner.jpg)
-
 # Open Web Conf Toronto 2016
 High-level concepts & ideas for a Toronto-based web conference running in early May, 2016.
 
