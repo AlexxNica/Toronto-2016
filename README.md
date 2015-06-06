@@ -2,11 +2,12 @@
 High-level concepts & ideas for a Toronto-based web conference running in early May, 2016.
 
 - [Content](#content)
+- [Volunteers](#volunteers)
 - [Attendees](#attendees)
 - [Tickets](#tickets)
 - [Expenses](#expenses)
-- [Tickets](#tickets)
 - [Sponsorship Opportunities](#sponsorship-opportunities)
+- [Potential Sponsors](#potential-sponsors)
 - [Daily Schedule Breakdown](#daily-schedule-breakdown)
 - [Official Organizers](#official-organizers)
 
