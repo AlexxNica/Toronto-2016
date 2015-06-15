@@ -4,7 +4,9 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 - [Content](#content)
 - [Volunteers](#volunteers)
 - [Attendees](#attendees)
-- [Tickets](#tickets)
+- [Conference Tickets](#conference-tickets)
+- [Workshops](#workshops)
+- [Workshop Tickets](#workshop-tickets)
 - [Expenses](#expenses)
 - [Sponsorship Opportunities](#sponsorship-opportunities)
 - [Potential Sponsors](#potential-sponsors)
@@ -31,13 +33,27 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 ### Attendees
 
 - 250 tickets
-- Attract intermediate to advanced attendees
+- Attract intermediate to advanced attendees & speakers
+  - *101*-type content could be made available through workshops running before or alongside the conference
 
-### Tickets
+### Conference Tickets
 - Early-bird (x100): $250
 - Regular (x100): $300
 - Last-minute (x50): $400
 - Total ticket revenue: ~$75,000
+
+### Workshops
+- Workshops would be run alongside the conference
+- 1/2 day or full day workshops
+- ~4-6 workshops (ie. 2 or 3 workshops each day of the conference)
+- ~20 attendees in each workshop (roughly ~120 workshop attendees)
+- 50-50 split of revenue with the workshop leader (roughly ~$1,250 to ~2,000)
+
+### Workshop Tickets
+- Early-bird (x50): $100/per-day
+- Regular (x50): $150/per-day
+- Last-minute (x20): $200/per-day
+- Total workshop revenue: ~$16,500 / 2 = ~$8,250
 
 ### Expenses
 - Venue: ~$30,000
