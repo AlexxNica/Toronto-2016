@@ -57,15 +57,17 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 
 ### Expenses
 - Venue: ~$30,000
+- Accessibility Services: ~$5,000 (reach out to http://stenoknight.com/)
 - Breakout Coffee & Snacks (x6): ~$15,000
 - Lunch (x2): ~$15,000
 - Speaker Travel & Accomodations: ~$30,000
 - Badges & Swag: ~$15,000
 - Networking Event/Party: ~$10,000
-- Total expenses: ~$115,000
+- Total expenses: ~$120,000
 
 ### Sponsorship Opportunities
 - Venue (x1)
+- Accessibility Services (~x1)
 - Networking Event/Party (~x1)
 - Booths (~x4)
 - WiFi (x1)
