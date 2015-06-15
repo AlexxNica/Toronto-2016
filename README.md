@@ -10,7 +10,7 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 - [Potential Sponsors](#potential-sponsors)
 - [Potential Speakers](#potential-speakers)
 - [Daily Schedule Breakdown](#daily-schedule-breakdown)
-- [Official Organizers](#official-organizers)
+- [Code of Conduct](#code-of-conduct)
 
 ### Content
 
@@ -74,8 +74,8 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 
 Please add your name if you think you'd like to speak at a conference like this. Also, include some topics you think you could present on and any relevant contact information.
 
-- [Darcy Clarke](http://twitter.com/darcy): **How not to run a conference...**
-- **YOU!!!**
+- [Darcy Clarke](http://twitter.com/darcy): "How not to run a conference" or "Living Styleguides 2.0"
+- **And YOU!!!**
 
 ### Daily Schedule Breakdown
 
@@ -100,3 +100,29 @@ Time | Event
 3:45pm - 4:15pm | Session
 4:15pm - 4:30pm | Break
 4:30pm - 5:15pm | Keynote
+
+### Code of Conduct 
+
+**Temporarily stolen a CoC from the [JSConf](http://jsconf.com/codeofconduct.html) folks, <3 [Chris Williams](http://twitter.com/voodootikigod) & crew:**
+
+> All delegates, speakers, sponsors and volunteers at any Open Web Conf event are required to agree with the following code of > conduct. Organizers will enforce this code throughout the event.
+> 
+> **The Quick Version**
+> 
+> Open Web Conf is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual > orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference > participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference > participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the > conference organizers.
+> 
+> **The Less Quick Version**
+> 
+> Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body > size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or > recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+> 
+> Participants asked to stop any harassing behavior are expected to comply immediately.
+> 
+> Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, > or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create > a sexualized environment.
+> 
+> If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including > warning the offender or expulsion from the conference with no refund.
+> 
+> If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of > conference staff immediately. Conference staff can be identified by a clearly marked "STAFF" shirt.
+> 
+> Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or > otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+> 
+> We expect participants to follow these rules at all conference venues and conference-related social events.
