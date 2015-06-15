@@ -85,6 +85,9 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 - Shopify
 - Google
 - SauceLabs
+- Digital Ocean
+- MediaTemple
+- Rackspace
 - Normative
 
 ### Potential Speakers
