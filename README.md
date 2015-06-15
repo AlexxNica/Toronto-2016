@@ -105,7 +105,7 @@ Time | Event
 
 **Temporarily stolen a CoC from the [JSConf](http://jsconf.com/codeofconduct.html) folks, <3 [Chris Williams](http://twitter.com/voodootikigod) & crew:**
 
-> All delegates, speakers, sponsors and volunteers at any Open Web Conf event are required to agree with the following code of > conduct. Organizers will enforce this code throughout the event.
+> All delegates, speakers, sponsors and volunteers at any Open Web Conf event are required to agree with the following code of conduct. Organizers will enforce this code throughout the event.
 > 
 > **The Quick Version**
 > 
