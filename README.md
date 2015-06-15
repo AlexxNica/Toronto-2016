@@ -1,4 +1,4 @@
-# Open Web Conf Toronto 2016
+# Open Web Conf Toronto
 High-level concepts & ideas for a Toronto-based web conference running in early May, 2016.
 
 - [Content](#content)
