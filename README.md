@@ -8,6 +8,7 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 - [Expenses](#expenses)
 - [Sponsorship Opportunities](#sponsorship-opportunities)
 - [Potential Sponsors](#potential-sponsors)
+- [Potential Speakers](#potential-speakers)
 - [Daily Schedule Breakdown](#daily-schedule-breakdown)
 - [Official Organizers](#official-organizers)
 
@@ -69,6 +70,13 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 - Google
 - SauceLabs
 
+### Potential Speakers
+
+Please add your name if you think you'd like to speak at a conference like this. Also, include some topics you think you could present on and any relevant contact information.
+
+- [Darcy Clarke](http://twitter.com/darcy): **How not to run a conference...**
+- **YOU!!!**
+
 ### Daily Schedule Breakdown
 
 Time | Event
@@ -92,7 +100,3 @@ Time | Event
 3:45pm - 4:15pm | Session
 4:15pm - 4:30pm | Break
 4:30pm - 5:15pm | Keynote
-
-### Official Organizers
-
-- Darcy Clarke: [@darcyclarke](http://github.com/darcyclarke) / [@darcy](http://twitter.com/darcy)
