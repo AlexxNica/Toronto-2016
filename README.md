@@ -86,6 +86,8 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 - &yet
 - Shopify
 - Google
+- Microsoft
+- Adobe
 - SauceLabs
 - Digital Ocean
 - MediaTemple
