@@ -15,6 +15,7 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 - [Code of Conduct](#code-of-conduct)
 
 ### Content
+----
 
 - 2 day conference
 - 1 track
@@ -25,24 +26,31 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
   - No laptop/device zone (closer to the stage)
 
 ### Volunteers
+----
+
 - 4 MC volunteers
 - 3 Registration volunteers
 - 4 Speaker-wrangler volunteers
 - 4 Miscelaneous volunteers
 
 ### Attendees
+----
 
 - 250 tickets
 - Attract intermediate to advanced attendees & speakers
   - *101*-type content could be made available through workshops running before or alongside the conference
 
 ### Conference Tickets
+----
+
 - Early-bird (x100): $250
 - Regular (x100): $300
 - Last-minute (x50): $400
 - Total ticket revenue: ~$75,000
 
 ### Workshops
+----
+
 - Workshops would be run alongside the conference
 - 1/2 day or full day workshops
 - ~4-6 workshops (ie. 2 or 3 workshops each day of the conference)
@@ -50,12 +58,16 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 - 50-50 split of revenue with the workshop leader (roughly ~$1,250 to ~2,000)
 
 ### Workshop Tickets
+----
+
 - Early-bird (x50): $100/per-day
 - Regular (x50): $150/per-day
 - Last-minute (x20): $200/per-day
 - Total workshop revenue: ~$16,500 / 2 = ~$8,250
 
 ### Expenses
+----
+
 - Venue: ~$30,000
 - Accessibility Services: ~$5,000 (reach out to http://stenoknight.com/)
 - Breakout Coffee & Snacks (x6): ~$15,000
@@ -66,6 +78,8 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 - Total expenses: ~$120,000
 
 ### Sponsorship Opportunities
+----
+
 - Venue (x1)
 - Accessibility Services (~x1)
 - Networking Event/Party (~x1)
@@ -75,6 +89,8 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 - Premium Break Snacks (~x2)
 
 ### Potential Sponsors
+----
+
 - Mozilla
 - Github
 - Bocoup
@@ -95,6 +111,7 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 - Normative
 
 ### Potential Speakers
+----
 
 Please add your name if you think you'd like to speak at a conference like this. Also, include some topics you think you could present on and any relevant contact information.
 
@@ -105,6 +122,7 @@ The purpose of this talk is to demistify the design process and show that even t
 - **Contact:** <a href="mailto:ricardo@mozillafoundation.org">ricardo@mozillafoundation.org</a>
 
 ### Daily Schedule Breakdown
+----
 
 Time | Event
 ------------- | -------------
@@ -129,6 +147,7 @@ Time | Event
 4:30pm - 5:15pm | Keynote
 
 ### Code of Conduct 
+----
 
 **Temporarily stolen a CoC from the [JSConf](http://jsconf.com/codeofconduct.html) folks, <3 [Chris Williams](http://twitter.com/voodootikigod) & crew:**
 
