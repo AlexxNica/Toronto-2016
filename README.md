@@ -98,9 +98,6 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 
 Please add your name if you think you'd like to speak at a conference like this. Also, include some topics you think you could present on and any relevant contact information.
 
-- [Darcy Clarke](http://twitter.com/darcy): "How not to run a conference" or "Living Styleguides 2.0"
-- **And YOU!!!**
-
 ### Daily Schedule Breakdown
 
 Time | Event
