@@ -98,6 +98,12 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 
 Please add your name if you think you'd like to speak at a conference like this. Also, include some topics you think you could present on and any relevant contact information.
 
+- **Name:** Ricardo Vazquez. 
+- **Title:** Designing in the Open. 
+- **Description:** It is time for the practice of Design to open its doors. The process of Design has historically been sheltered from the public. As such, we have lost a lot of visibility in regards to what it takes to go from empty canvas to pixel-perfect design. 
+The purpose of this talk is to demistify the design process and show that even the best designs always go through moments of hardships and challenges. Moreover, I would like to offer a perspective on how to begin sharing our design work to the whole world. We need design to be as open as development is today.
+- **Contact:** <a href="mailto:ricardo@mozillafoundation.org">ricardo@mozillafoundation.org</a>
+
 ### Daily Schedule Breakdown
 
 Time | Event
