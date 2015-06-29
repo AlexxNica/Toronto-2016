@@ -38,7 +38,7 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 
 - 250 tickets
 - Attract intermediate to advanced attendees & speakers
-  - *101*-type content could be made available through workshops running before or alongside the conference
+  - *101*-type content can be made available through workshops running alongside the conference
 
 ### Conference Tickets
 ----
@@ -51,25 +51,29 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 ### Workshops
 ----
 
-- Workshops would be run alongside the conference
-- 1/2 day or full day workshops
-- ~4-6 workshops (ie. 2 or 3 workshops each day of the conference)
-- ~20 attendees in each workshop (roughly ~120 workshop attendees)
-- 50-50 split of revenue with the workshop leader (roughly ~$1,250 to ~2,000)
+- **workshop tickets are sold seperately from conference tickets**
+- **1 workshop ticket is given, free, to every person that buys a conference ticket**
+- ~8 workshops (ie. 4 half-day workshops)
+- ~125 workshop attendees
+- 50-50 split of revenue with the workshop leader (roughly ~$1,000 to ~2,000)
 
 ### Workshop Tickets
 ----
 
-- Early-bird (x50): $100/per-day
-- Regular (x50): $150/per-day
-- Last-minute (x20): $200/per-day
-- Total workshop revenue: ~$16,500 / 2 = ~$8,250
+- Early-bird (x100): $60/per-workshop
+- Regular (x100): $75/per-workshop
+- Last-minute (x50): $100/per-workshop
+- Total workshop revenue: ~$18,500 / 2 = ~$9,500
+
+> **Note:** These numbers may seem low but they actually reflect a half-day at the current projected conference ticket pricing.
+> Keeping workshops reasonably priced will also increase the liklihood of workshop-conference attendee cross-over.
+> Workshops should range from 25-50 attendees with the expectation that not all free workshop tickets will get used.
 
 ### Expenses
 ----
 
 - Venue: ~$30,000
-- Accessibility Services: ~$5,000 (reach out to http://stenoknight.com/)
+- Accessibility Services: ~$5,000
 - Breakout Coffee & Snacks (x6): ~$15,000
 - Lunch (x2): ~$15,000
 - Speaker Travel & Accomodations: ~$30,000
