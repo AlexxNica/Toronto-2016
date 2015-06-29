@@ -53,7 +53,7 @@ High-level concepts & ideas for a Toronto-based web conference running in early 
 
 - workshop tickets are **sold seperately** from conference tickets
 - 1 workshop ticket is given, **free**, to every person that buys a conference ticket
-- ~8 workshops (ie. 4 half-day workshops)
+- ~8 workshops (4 half-day workshops per day)
 - ~150 workshop attendees
 - 50-50 split of revenue with the workshop leader (roughly ~$1,000 to ~2,000)
 
