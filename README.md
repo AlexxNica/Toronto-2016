@@ -1,5 +1,5 @@
 # Open Web Conf Toronto
-High-level concepts & ideas for a Toronto-based web conference running in early **May, 2016**. Follow us on Twitter at [@OpenWebConfTO](https://twitter.com/OpenWebConfTO).
+High-level concepts & ideas for a Toronto-based web conference running in **2016**. Follow us on Twitter at [@OpenWebConfTO](https://twitter.com/OpenWebConfTO).
 
 - [Content](#content)
 - [Volunteers](#volunteers)
